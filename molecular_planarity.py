@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 import numpy as np
 
-raw_data = "uracil_planar.xyz"
+# Use .xyz format file as input
+raw_data = "molecule.xyz"
 
 # Separete the three dimentionalities of the input coordinate
 def input_processing(raw):
