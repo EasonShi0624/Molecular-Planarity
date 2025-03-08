@@ -3,4 +3,4 @@ An easy way to quantize molecular planarity based on **Lu, T. Simple, reliable, 
   
 Reproduction of the paper result is done in Python with Numpy library.  
   
-**Please cite the original paper if you use the method in any work.**Cheers!
+**Please cite the original paper if you use the method in any work.** Cheers!
